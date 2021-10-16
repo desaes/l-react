@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "name": "l-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desaes/l-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desaes/l-react/issues"
+  },
+  "homepage": "https://github.com/desaes/l-react#readme"
+}
